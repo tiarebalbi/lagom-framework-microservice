@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Building Microservices Application with Lagom Framework (Post)
+  Building Microservices with Lagom Framework (Post)
 </h1>
 
 ![Scala CI](https://github.com/tiarebalbi/lagom-starter-minimal/workflows/Scala%20CI/badge.svg)
